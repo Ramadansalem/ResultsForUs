@@ -1,7 +1,7 @@
 const data = {
   students: [
     {
-      id: "1",
+      id: "2590",
       name: "علي مصطفى علي",
       subjects: {
         1: {
@@ -41,7 +41,7 @@ const data = {
       },
     },
     {
-      id: "2",
+      id: "2712",
       name: "علي جمعة محمد",
       subjects: {
         1: {
@@ -81,7 +81,7 @@ const data = {
       },
     },
     {
-      id: "3",
+      id: "9954",
       name: "محمد يونس بلقاسم",
       subjects: {
         1: {
@@ -121,7 +121,7 @@ const data = {
       },
     },
     {
-      id: "4",
+      id: "7212",
       name: "بلقاسم يونس بلقاسم",
       subjects: {
         1: {
@@ -161,7 +161,7 @@ const data = {
       },
     },
     {
-      id: "5",
+      id: "2250",
       name: "علي سعيد سعد",
       subjects: {
         1: {
@@ -199,7 +199,7 @@ const data = {
       },
     },
     {
-      id: "6",
+      id: "1034",
       name: "معتز صالح محمد",
       subjects: {
         1: {
@@ -239,7 +239,7 @@ const data = {
       },
     },
     {
-      id: "7",
+      id: "8844",
       name: "سعدة عبدالله عبدالنبي",
       subjects: {
         1: {
@@ -278,7 +278,7 @@ const data = {
       },
     },
     {
-      id: "8",
+      id: "6113",
       name: "ام العز خليل بوشويشة",
       subjects: {
         1: {
@@ -318,7 +318,7 @@ const data = {
       },
     },
     {
-      id: "9",
+      id: "3245",
       name: "رتاج امحمد عبد الخالق",
       subjects: {
         1: {
@@ -351,7 +351,7 @@ const data = {
           notebook: 3,
           attendance: "لم ترصد بعد",
           monthlyApplications: 3.8,
-          "total": "12.8 بدون درجة الحضور والغياب",
+          total: "12.8 بدون درجة الحضور والغياب",
           finalExam: "لم ترصد بعد",
           practicalExam: "لم ترصد بعد",
         },
