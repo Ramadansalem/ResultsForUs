@@ -12,7 +12,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 4.5,
           total: "13.5 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  14",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -52,7 +52,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 4,
           total: "13 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  15.5",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -92,7 +92,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 6,
           total: "15 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  20",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -132,7 +132,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 4.5,
           total: "13.5 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  15",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -172,7 +172,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 3.83,
           total: "12.83 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  20",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -210,7 +210,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 3.5,
           total: "12.5 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  17.5",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -250,7 +250,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 5.66,
           total: "14.66 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  15",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -261,7 +261,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 5.56,
           total: "14.56 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  15",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -289,7 +289,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 3.5,
           total: "12.5 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  14.5",
           practicalExam: "لم ترصد بعد",
         },
         2: {
@@ -341,7 +341,7 @@ const data = {
           monthlyApplications: 5.5,
           total: "14.5 بدون درجة الحضور والغياب",
 
-          finalExam: "لم ترصد بعد",
+          finalExam: "  18",
           practicalExam: "لم ترصد بعد",
         },
         3: {
