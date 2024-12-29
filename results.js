@@ -329,7 +329,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 3.5,
           total: "12.5 بدون درجة الحضور والغياب",
-          finalExam: "لم ترصد بعد",
+          finalExam: "  18",
           practicalExam: "لم ترصد بعد",
         },
         2: {
