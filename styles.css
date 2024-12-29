@@ -34,3 +34,10 @@ button:hover {
   padding: 20px;
   border: 1px solid #ddd;
 }
+.news-ticker {
+  margin: 20px 0;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
