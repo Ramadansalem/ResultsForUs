@@ -1,3 +1,10 @@
+fetch("news.json")
+  .then((response) => response.json())
+  .then((data) => {
+    const newsTicker = document.getElementById("newsTicker");
+    newsTicker.innerHTML = data.news.join(" &nbsp; | &nbsp; ");
+  })
+  .catch((error) => console.error("Error fetching news:", error));
 const data = {
   students: [
     {
