@@ -34,7 +34,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 4.83,
           "total": "13.83 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  16",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -73,7 +73,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 6.16,
           "total": "15.16 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  15",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -112,7 +112,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 6.5,
           "total": "15.5 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  16",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -151,7 +151,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 5.16,
           "total": "14,16 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  15",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -191,7 +191,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 5.83,
           "total": "14.83 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  15.5",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -205,10 +205,10 @@
           "behavior": 3,
           "homework": 3,
           "notebook": 3,
-          "attendance": "  17.5",
+          "attendance": "  لم ترصد بعد",
           "monthlyApplications": 3.5,
           "total": "12.5 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  17.5",
           "practicalExam": "لم ترصد بعد"
         },
         "2": {
@@ -231,7 +231,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 4.16,
           "total": "13.16 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  17.5",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -270,7 +270,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 4.83,
           "total": "13.83 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  17",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -308,7 +308,7 @@
           "notebook": 3,
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 8,
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  14",
           "practicalExam": "لم ترصد بعد"
         }
       }
@@ -347,7 +347,7 @@
           "attendance": "لم ترصد بعد",
           "monthlyApplications": 3.8,
           "total": "12.8 بدون درجة الحضور والغياب",
-          "finalExam": "لم ترصد بعد",
+          "finalExam": "  19",
           "practicalExam": "لم ترصد بعد"
         }
       }
