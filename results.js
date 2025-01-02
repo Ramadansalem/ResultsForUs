@@ -30,8 +30,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 4.5,
           total: "13.5 بدون درجة الحضور والغياب",
-
-          finalExam: "لم ترصد بعد",
+          finalExam: "18  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -71,7 +70,7 @@ const data = {
           monthlyApplications: 4,
           total: "13 بدون درجة الحضور والغياب",
 
-          finalExam: "لم ترصد بعد",
+          finalExam: "19  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -111,7 +110,7 @@ const data = {
           monthlyApplications: 4.83,
           total: "13.83 بدون درجة الحضور والغياب",
 
-          finalExam: "لم ترصد بعد",
+          finalExam: "20  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -151,7 +150,7 @@ const data = {
           monthlyApplications: 5,
           total: "14 بدون درجة الحضور والغياب",
 
-          finalExam: "لم ترصد بعد",
+          finalExam: "17  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -189,7 +188,7 @@ const data = {
           notebook: 3,
           attendance: "لم ترصد بعد",
           monthlyApplications: 4.83,
-          finalExam: "لم ترصد بعد",
+          finalExam: "19  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -229,7 +228,7 @@ const data = {
           monthlyApplications: 4.16,
           total: "13.16 بدون درجة الحضور والغياب",
 
-          finalExam: "لم ترصد بعد",
+          finalExam: "15  ",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -268,7 +267,7 @@ const data = {
           attendance: "لم ترصد بعد",
           monthlyApplications: 5.56,
           total: "14.56 بدون درجة الحضور والغياب",
-          finalExam: "  15",
+          finalExam: "  13",
           practicalExam: "لم ترصد بعد",
         },
         3: {
@@ -348,7 +347,7 @@ const data = {
           monthlyApplications: 5.5,
           total: "14.5 بدون درجة الحضور والغياب",
 
-          finalExam: "  18",
+          finalExam: "  17",
           practicalExam: "لم ترصد بعد",
         },
         3: {
